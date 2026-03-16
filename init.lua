@@ -28,4 +28,5 @@ require("lazy").setup({
 	require("plugins.indent-blankline"),
 	require("plugins.misc"),
 	require("plugins.lazy-git"),
+	require("plugins.copilot"),
 })
